@@ -17,6 +17,7 @@
 
     <TextView
         android:id="@+id/tvTitle"
+        android:textColor="@color/white"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -26,6 +27,7 @@
         tools:text="Fantastic Beasts: The Secrets of Dumbledore" />
 
     <TextView
+        android:textColor="@color/white"
         android:id="@+id/tvOverview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
